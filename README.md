@@ -6,6 +6,7 @@ A sample backend API demonstrating a RAG (Retrieval Augmented Generation) system
 ## What is RAG?
 
 Retrieval-Augmented Generation (RAG) is an AI framework that enhances large language models (LLMs) by providing them with additional context retrieved from a knowledge base. 
+
 ![RAG Architecture Overview](https://gettectonic.com/wp-content/uploads/2024/05/Retrieval-Augmented-Generation-Techniques.webp)
 
 ## Overview
